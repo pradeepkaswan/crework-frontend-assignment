@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#1B1919] text-white;
+  }
+
+  button {
+    @apply border border-white rounded px-4 py-2 font-poppins font-semibold text-[14px];
+  }
+}

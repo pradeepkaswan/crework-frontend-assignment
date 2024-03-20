@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "title": "Tell me about a product you launched successfully.",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "2",
+      "title": "What is your favorite product and why?",
+      "tags": ["Guesstimates", "Behavioral"]
+    },
+    {
+      "id": "3",
+      "title": "How would you approach improving our product's user experience?",
+      "tags": ["Product Design", "Analytics"]
+    },
+    {
+      "id": "4",
+      "title": "Estimate the number of tennis balls sold in the US annually.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "id": "5",
+      "title": "Discuss a successful product strategy you implemented.",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "6",
+      "title": "Design a system for online ticket booking.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "7",
+      "title": "How do you prioritize features in product development?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "8",
+      "title": "Describe a technical challenge you faced and how you overcame it.",
+      "tags": ["Technical"]
+    },
+    {
+      "id": "9",
+      "title": "What metrics would you use to measure the success of a product launch?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "10",
+      "title": "Explain the architecture of a distributed system.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "11",
+      "title": "How do you conduct user research for product design?",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "12",
+      "title": "Estimate the market size for electric scooters in urban areas.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "id": "13",
+      "title": "What are the key components of a successful product roadmap?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "14",
+      "title": "Design a recommendation system for an e-commerce platform.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "15",
+      "title": "How do you analyze user behavior data to improve a product?",
+      "tags": ["Analytics", "Behavioral"]
+    },
+    {
+      "id": "16",
+      "title": "Discuss a case where you applied A/B testing in product development.",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "17",
+      "title": "Explain the concept of scalability in system design.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "18",
+      "title": "How do you approach designing user interfaces for mobile apps?",
+      "tags": ["Product Design", "Technical"]
+    },
+    {
+      "id": "19",
+      "title": "Estimate the bandwidth required for a video streaming service.",
+      "tags": ["Guesstimates", "Technical"]
+    },
+    {
+      "id": "20",
+      "title": "What factors would you consider in pricing a new product?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "21",
+      "title": "Discuss the trade-offs between consistency and availability in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "22",
+      "title": "How do you validate product ideas before development?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "23",
+      "title": "Explain the concept of churn rate and its importance in business.",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "24",
+      "title": "Design a database schema for a social media platform.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "25",
+      "title": "How do you incorporate user feedback into product design?",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "26",
+      "title": "Estimate the number of monthly active users for a popular gaming app.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "id": "27",
+      "title": "What is your approach to building a minimum viable product (MVP)?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "28",
+      "title": "Explain the concept of load balancing in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "29",
+      "title": "How do you analyze market trends to inform product decisions?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "30",
+      "title": "Discuss a case where you used machine learning in product development.",
+      "tags": ["Analytics", "Technical"]
+    },
+    {
+      "id": "31",
+      "title": "How do you conduct usability testing for a new feature?",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "32",
+      "title": "Estimate the storage capacity needed for a cloud-based document storage service.",
+      "tags": ["Guesstimates", "Technical"]
+    },
+    {
+      "id": "33",
+      "title": "What are the key performance indicators (KPIs) for a subscription-based service?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "34",
+      "title": "Design a messaging system for a large-scale chat application.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "35",
+      "title": "How do you prioritize bugs in a software development process?",
+      "tags": ["Technical"]
+    },
+    {
+      "id": "36",
+      "title": "What is your approach to feature prioritization in product development?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "37",
+      "title": "Discuss a case where you optimized the performance of a web application.",
+      "tags": ["Analytics", "Technical"]
+    },
+    {
+      "id": "38",
+      "title": "Explain the concept of fault tolerance in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "39",
+      "title": "How do you gather requirements for a new software project?",
+      "tags": ["Technical", "Behavioral"]
+    },
+    {
+      "id": "40",
+      "title": "Discuss the impact of user interface design on user engagement.",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "41",
+      "title": "Estimate the number of daily active users for a popular social media app.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "id": "42",
+      "title": "What are the key components of a successful product launch strategy?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "43",
+      "title": "Design a content delivery network (CDN) for a video streaming service.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "44",
+      "title": "How do you analyze user engagement data to improve a product?",
+      "tags": ["Analytics", "Behavioral"]
+    },
+    {
+      "id": "45",
+      "title": "Discuss a case where you used multivariate testing in product development.",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "46",
+      "title": "Explain the concept of sharding in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "47",
+      "title": "How do you approach designing user interfaces for web applications?",
+      "tags": ["Product Design", "Technical"]
+    },
+    {
+      "id": "48",
+      "title": "Estimate the bandwidth required for a music streaming service.",
+      "tags": ["Guesstimates", "Technical"]
+    },
+    {
+      "id": "49",
+      "title": "What factors would you consider in pricing a new software product?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "50",
+      "title": "Discuss the trade-offs between consistency and partition tolerance in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "51",
+      "title": "How do you validate software ideas before development?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "52",
+      "title": "Explain the concept of customer lifetime value and its importance in business.",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "53",
+      "title": "Design a database schema for a financial management platform.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "54",
+      "title": "How do you incorporate user feedback into software design?",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "55",
+      "title": "Estimate the number of monthly active users for a popular productivity app.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "id": "56",
+      "title": "What is your approach to building a minimum viable product (MVP)?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "57",
+      "title": "Explain the concept of load balancing in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "58",
+      "title": "How do you analyze market trends to inform product decisions?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "59",
+      "title": "Discuss a case where you used machine learning in product development.",
+      "tags": ["Analytics", "Technical"]
+    },
+    {
+      "id": "60",
+      "title": "How do you conduct usability testing for a new feature?",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "61",
+      "title": "Estimate the storage capacity needed for a cloud-based document storage service.",
+      "tags": ["Guesstimates", "Technical"]
+    },
+    {
+      "id": "62",
+      "title": "What are the key performance indicators (KPIs) for a subscription-based service?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "63",
+      "title": "Design a messaging system for a large-scale chat application.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "64",
+      "title": "How do you prioritize bugs in a software development process?",
+      "tags": ["Technical"]
+    },
+    {
+      "id": "65",
+      "title": "What is your approach to feature prioritization in product development?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "66",
+      "title": "Discuss a case where you optimized the performance of a web application.",
+      "tags": ["Analytics", "Technical"]
+    },
+    {
+      "id": "67",
+      "title": "Explain the concept of fault tolerance in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "68",
+      "title": "How do you gather requirements for a new software project?",
+      "tags": ["Technical", "Behavioral"]
+    },
+    {
+      "id": "69",
+      "title": "Discuss the impact of user interface design on user engagement.",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "70",
+      "title": "Estimate the number of daily active users for a popular social media app.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "id": "71",
+      "title": "What are the key components of a successful product launch strategy?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "72",
+      "title": "Design a content delivery network (CDN) for a video streaming service.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "73",
+      "title": "How do you analyze user engagement data to improve a product?",
+      "tags": ["Analytics", "Behavioral"]
+    },
+    {
+      "id": "74",
+      "title": "Discuss a case where you used multivariate testing in product development.",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "75",
+      "title": "Explain the concept of sharding in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "76",
+      "title": "How do you approach designing user interfaces for web applications?",
+      "tags": ["Product Design", "Technical"]
+    },
+    {
+      "id": "77",
+      "title": "Estimate the bandwidth required for a music streaming service.",
+      "tags": ["Guesstimates", "Technical"]
+    },
+    {
+      "id": "78",
+      "title": "What factors would you consider in pricing a new software product?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "79",
+      "title": "Discuss the trade-offs between consistency and partition tolerance in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "80",
+      "title": "How do you validate software ideas before development?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "81",
+      "title": "Explain the concept of customer lifetime value and its importance in business.",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "82",
+      "title": "Design a database schema for a financial management platform.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "83",
+      "title": "How do you incorporate user feedback into software design?",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "84",
+      "title": "Estimate the number of monthly active users for a popular productivity app.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "id": "85",
+      "title": "What is your approach to building a minimum viable product (MVP)?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "86",
+      "title": "Explain the concept of load balancing in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "87",
+      "title": "How do you analyze market trends to inform product decisions?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "88",
+      "title": "Discuss a case where you used machine learning in product development.",
+      "tags": ["Analytics", "Technical"]
+    },
+    {
+      "id": "89",
+      "title": "How do you conduct usability testing for a new feature?",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "90",
+      "title": "Estimate the storage capacity needed for a cloud-based document storage service.",
+      "tags": ["Guesstimates", "Technical"]
+    },
+    {
+      "id": "91",
+      "title": "What are the key performance indicators (KPIs) for a subscription-based service?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "id": "92",
+      "title": "Design a messaging system for a large-scale chat application.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "93",
+      "title": "How do you prioritize bugs in a software development process?",
+      "tags": ["Technical"]
+    },
+    {
+      "id": "94",
+      "title": "What is your approach to feature prioritization in product development?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "id": "95",
+      "title": "Discuss a case where you optimized the performance of a web application.",
+      "tags": ["Analytics", "Technical"]
+    },
+    {
+      "id": "96",
+      "title": "Explain the concept of fault tolerance in distributed systems.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "id": "97",
+      "title": "How do you gather requirements for a new software project?",
+      "tags": ["Technical", "Behavioral"]
+    },
+    {
+      "id": "98",
+      "title": "Discuss the impact of user interface design on user engagement.",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "id": "99",
+      "title": "Estimate the number of daily active users for a popular social media app.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "id": "100",
+      "title": "What are the key components of a successful product launch strategy?",
+      "tags": ["Product Strategy", "Behavioral"]
+    }
+  ]
+}
